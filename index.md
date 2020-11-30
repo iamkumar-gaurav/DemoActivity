@@ -1,14 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to my Android GitHub Repository
 
 You can use the [editor on GitHub](https://github.com/iamkumar-gaurav/DemoActivity/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### App name:AppStore(Demo Purpose)
+this app is under development procedure,this app take user input -> intend to next page as well as update it to google FIREBASE REALTIME DATABASE
+USE phone number as child node.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
+markdown
 Syntax highlighted code block
 
 # Header 1
