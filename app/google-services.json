@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "194770589115",
+    "firebase_url": "https://demoactivity-170af.firebaseio.com",
+    "project_id": "demoactivity-170af",
+    "storage_bucket": "demoactivity-170af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194770589115:android:5f94f499fe811d6f06609e",
+        "android_client_info": {
+          "package_name": "com.example.demoactivity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194770589115-4krgdeb8sd9ev5kfrf3gp7jtsm3v83dg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWtasq6-wYXyedi1qCV7WMCYYeaCZ_ayg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194770589115-4krgdeb8sd9ev5kfrf3gp7jtsm3v83dg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
